@@ -1,0 +1,1 @@
+all the script to permmisions
